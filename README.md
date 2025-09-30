@@ -11,3 +11,4 @@ Virtual Pantry is a website that will help you with all of your meal planning tr
 ## Misc & Notes
 - **Team Article:** https://medium.com/@tcknickerbocker/how-to-style-your-react-apps-with-react-bootstrap-73a6f5f5ecea <br>
 - **Functioning deployments via:** https://github.com/OwenRatgen/Let-Me-Cook
+<img width="1470" height="798" alt="Homepage" src="https://github.com/user-attachments/assets/671e9d9b-e43c-4ebc-8fef-fa0501088394" />
